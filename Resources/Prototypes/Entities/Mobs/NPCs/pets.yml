@@ -162,7 +162,7 @@
   - type: Appearance
   - type: Inventory
     speciesId: cat
-    templateId: pet
+    templateId: petcat
   - type: Strippable
   - type: UserInterface
     interfaces:
@@ -219,7 +219,7 @@
   - type: Appearance
   - type: Inventory
     speciesId: puppy
-    templateId: pet
+    templateId: petpuppy
   - type: Strippable
   - type: UserInterface
     interfaces:
